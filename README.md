@@ -1,4 +1,5 @@
 # JSGO - Jogo em primeira pessoa utilizando three.js
+Baseado no jodo de computador Couter Strike
 
 Esse repositório foi criado com o objetivo de apresentar as possibilidades da bilbioteca three.js, onde montei um vídeo no youtube (conforme lilnk abaixo) com uma rápida explicação, apesar de não estar muito organizado estou disponibilizando o codigo para quem quiser evoluir ainda mais!
 
