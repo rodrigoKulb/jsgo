@@ -9,4 +9,8 @@ http://youtube.com.br/rodrigoKulb
 
 
 # DEMO
+Player 1
 http://rodrigo-kulb.com.br/threejs/game/index.php?p=1
+
+Player 2
+http://rodrigo-kulb.com.br/threejs/game/index.php?p=2
