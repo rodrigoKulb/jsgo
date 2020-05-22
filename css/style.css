@@ -1,0 +1,151 @@
+/* CSS Document */
+
+
+body { margin: 0; overflow:hidden; font-family:Arial, Helvetica, sans-serif;}
+
+#instructions
+{
+	left:0px;
+	right:0px;
+	bottom:0px; 
+	position:absolute; 
+	top:0px; 
+	background:#ccc;
+	z-index:10;
+}
+
+.placar
+{
+	font-size: 80px;
+    width: 90px;
+    text-align: center;
+	background:none;
+	border:none;
+}
+
+.placar1
+{
+	font-size: 80px;
+    width: 200px;
+	background:none;
+	color:#FFFFFF;
+	border:none;
+}
+
+.placarEsquerdo
+{
+	position:absolute; 
+	left:20px; 
+	top:20px;
+	text-align:center;
+}
+
+.placarDireito
+{
+	position:absolute; 
+	right:20px; 
+	top:20px;
+	text-align:center;	
+}
+
+.placarVida
+{
+	position:absolute;
+	left:20px;
+	bottom:20px;
+	text-align:center;
+	color:#FFFFFF;
+	font-size:90px;
+	font-weight:bold;
+	background:#000000;
+	opacity:0.2;
+	text-align:center;
+	padding-left:20px;
+}
+
+.placar2
+{
+	display:none;
+}
+
+.mira
+{
+	position:absolute;
+	left:50%;
+	width:20px;
+	color:#FF0000;
+	font-weight:bold;
+	top:50%;
+	z-index:7;
+	height:20px;
+	margin-left:-10px;
+	margin-top:-10px;
+	font-size:20px;
+	text-align: center;
+}
+
+.arma
+{
+	position:fixed;
+	right:0px;
+	width:90%;
+	bottom:-30px;
+	z-index:5;
+}
+
+.hit
+{
+	position:absolute;
+	background:#FF0000;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:1000px;
+	z-index:6;
+	display:none;
+}
+
+#instructions2
+{
+    position: absolute;
+    left: 14%;
+    height: 17%;
+    width: 21%;
+    top: 49%;
+    z-index: 11;
+	cursor:pointer;
+}
+
+#github
+{
+    position: absolute;
+    left: 14%;
+    height: 17%;
+    width: 21%;
+    top: 71%;
+    z-index: 11;
+	cursor:pointer;
+	
+}
+
+#alertAviso
+{
+	position:absolute;
+	left:50%;
+	top:60%;
+	margin-top:-15%;
+	width:30%;
+	
+	margin-left:-15%;
+	background:#000000;
+	z-index:12;
+	padding:30px;
+	border-radius: 20px;
+	display:none;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size:25px;
+	
+}
+
