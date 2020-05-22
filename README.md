@@ -1,6 +1,6 @@
 # JSGO - Jogo em primeira pessoa utilizando three.js
 
-![print](img/cap1.png)
+![print](img/cap2.png)
 
 
 # DEMO
